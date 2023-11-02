@@ -1,0 +1,8 @@
+h1,h6{
+	color:red;
+}
+
+/*Ataque h1 que estão dentro da class div, no caso filhas dessa classe */
+.div > h1{
+	color:blue;
+}
